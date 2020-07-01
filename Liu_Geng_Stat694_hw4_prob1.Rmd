@@ -1,0 +1,16 @@
+---
+title: "Liu_Geng_Stat694_hw4_prob1"
+author: "Geng_Liu"
+date: "6/30/2020"
+output: html_document
+---
+```{r cars}
+summary(cars)
+```
+
+
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
